@@ -1,77 +1,84 @@
-# Welcome to Limbus Company - Wing KiwiKit2 🏢
+# LOBOTOMY CORPORATION - SEPHIROT BINAH TERMINAL 🌑
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=FF4444&center=true&vCenter=true&width=800&lines=LIMBUS+COMPANY+EMPLOYEE+DATABASE;WING+KIWI+-+ACTIVE;CURRENT+PROJECT%3A+CLASSIFIED;DANTE'S+GUIDANCE+PROTOCOL+ONLINE;%E2%9A%A0+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0" alt="Limbus Company Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=900&lines=LOBOTOMY+CORPORATION+CENTRAL+COMMAND;SEPHIROT+BINAH+%E2%80%A2+FLOOR+OF+UNDERSTANDING;AGENT+KIWIKIT2+%E2%80%A2+DEPARTMENT+HEAD;ABNORMALITY+MANAGEMENT+PROTOCOL+ACTIVE;%E2%9A%A0%EF%B8%8F+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0%EF%B8%8F" alt="Lobotomy Corp Terminal" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-success?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZGRkZGIi8+Cjwvc3ZnPgo=&labelColor=1a1a1a&color=ff4444" alt="Status" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-critical?style=for-the-badge&labelColor=1a1a1a&color=ff4444" alt="Clearance" />
-  <img src="https://img.shields.io/badge/DEPARTMENT-TECHNOLOGY-informational?style=for-the-badge&labelColor=1a1a1a&color=666666" alt="Department" />
+  <img src="https://img.shields.io/badge/FACILITY-OPERATIONAL-success?style=for-the-badge&labelColor=1C1C1C&color=4A90E2" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-SEPHIROT-critical?style=for-the-badge&labelColor=1C1C1C&color=9B59B6" alt="Clearance" />
+  <img src="https://img.shields.io/badge/FLOOR-UNDERSTANDING-informational?style=for-the-badge&labelColor=1C1C1C&color=2C3E50" alt="Floor" />
 </div>
 
-## 🏢 Employee Profile
+## 🌑 SEPHIROT PERSONNEL FILE
 
 ```
-═══════════════════════════════════════════════════════════════
-                    LIMBUS COMPANY DATABASE
-═══════════════════════════════════════════════════════════════
-EMPLOYEE ID    : KW-2025-001
-WING NAME      : KiwiKit2
-DEPARTMENT     : Technology Solutions Division
-CLEARANCE      : Level 5
-STATUS         : Active
-SPECIALIZATION : Full-Stack Development
-═══════════════════════════════════════════════════════════════
+╔═══════════════════════════════════════════════════════════════╗
+║                 LOBOTOMY CORPORATION DATABASE                 ║
+║                      FLOOR OF UNDERSTANDING                   ║
+╚═══════════════════════════════════════════════════════════════╝
+
+DESIGNATION    : Sephirot Binah - Floor of Understanding
+AGENT ID       : KiwiKit2  
+DEPARTMENT     : Extraction & Information Sciences
+CLEARANCE      : S-Class (Sephirot Level)
+STATUS         : Active - Meltdown Protocol Ready
+SPECIALIZATION : Code Extraction & Digital Abnormality Management
+
+"The wisdom to accept the unchangeable,
+ The courage to change what can be changed,
+ And the wisdom to distinguish between the two."
+                                        - Binah
 ```
 
-- 🏢 **CURRENT ASSIGNMENT**: `Classified GitHub Operations`
-- 🔬 **RESEARCH FOCUS**: `Advanced Web Technologies`
-- 🤝 **COLLABORATION PROTOCOL**: `Open Source Contributions`
-- 📡 **EXPERTISE DATABASE**: `JavaScript, Python, Web Development`
-- 📞 **CONTACT FREQUENCY**: `[Classified]`
-- ⚡ **CLASSIFIED INFO**: `Coffee-powered code warrior`
+- 🌑 **CURRENT ASSIGNMENT**: `Digital Asset Extraction & Management`
+- 🔬 **RESEARCH FOCUS**: `Advanced Code Architectures & AI Systems`
+- 🤝 **COLLABORATION PROTOCOL**: `Cross-Department Development Projects`
+- 📡 **EXPERTISE DATABASE**: `Full-Stack Development, AI Integration, System Architecture`
+- 📞 **CONTACT FREQUENCY**: `[REDACTED - Sephirot Level Classification]`
+- ⚡ **PSYCHOLOGICAL PROFILE**: `Methodical, Analytical, Coffee-dependent Processing Unit`
 
-## ⚙️ COMPANY APPROVED TECHNOLOGIES
+## ⚙️ EXTRACTION & PROCESSING PROTOCOLS
 
 <div align="center">
   
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║                    TECHNICAL ARSENAL - CLASSIFIED             ║
+║                  ABNORMALITY MANAGEMENT SYSTEMS               ║
+║                      [SEPHIROT ACCESS ONLY]                   ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-### 🖥️ CORE PROTOCOLS
-![Python](https://img.shields.io/badge/-Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4444)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ff4444)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=ff4444)
-![Java](https://img.shields.io/badge/-Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ff4444)
-![C++](https://img.shields.io/badge/-C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=ff4444)
+### 🖥️ CORE EXTRACTION PROTOCOLS
+![Python](https://img.shields.io/badge/-Python-1C1C1C?style=for-the-badge&logo=python&logoColor=4A90E2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=4A90E2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=4A90E2)
+![Java](https://img.shields.io/badge/-Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=4A90E2)
+![C++](https://img.shields.io/badge/-C++-1C1C1C?style=for-the-badge&logo=cplusplus&logoColor=4A90E2)
 
-### 🎨 INTERFACE SYSTEMS
-![React](https://img.shields.io/badge/-React-1a1a1a?style=for-the-badge&logo=react&logoColor=ff4444)
-![Vue.js](https://img.shields.io/badge/-Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=ff4444)
-![HTML5](https://img.shields.io/badge/-HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff4444)
-![CSS3](https://img.shields.io/badge/-CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=ff4444)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1a1a1a?style=for-the-badge&logo=tailwindcss&logoColor=ff4444)
+### 🎨 INTERFACE CONTAINMENT SYSTEMS
+![React](https://img.shields.io/badge/-React-1C1C1C?style=for-the-badge&logo=react&logoColor=4A90E2)
+![Vue.js](https://img.shields.io/badge/-Vue.js-1C1C1C?style=for-the-badge&logo=vuedotjs&logoColor=4A90E2)
+![HTML5](https://img.shields.io/badge/-HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=4A90E2)
+![CSS3](https://img.shields.io/badge/-CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=4A90E2)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1C1C1C?style=for-the-badge&logo=tailwindcss&logoColor=4A90E2)
 
-### 🏗️ BACKEND INFRASTRUCTURE
-![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=ff4444)
-![Express.js](https://img.shields.io/badge/-Express-1a1a1a?style=for-the-badge&logo=express&logoColor=ff4444)
-![Django](https://img.shields.io/badge/-Django-1a1a1a?style=for-the-badge&logo=django&logoColor=ff4444)
-![Flask](https://img.shields.io/badge/-Flask-1a1a1a?style=for-the-badge&logo=flask&logoColor=ff4444)
+### 🏗️ BACKEND FACILITY INFRASTRUCTURE  
+![Node.js](https://img.shields.io/badge/-Node.js-1C1C1C?style=for-the-badge&logo=nodedotjs&logoColor=4A90E2)
+![Express.js](https://img.shields.io/badge/-Express-1C1C1C?style=for-the-badge&logo=express&logoColor=4A90E2)
+![Django](https://img.shields.io/badge/-Django-1C1C1C?style=for-the-badge&logo=django&logoColor=4A90E2)
+![Flask](https://img.shields.io/badge/-Flask-1C1C1C?style=for-the-badge&logo=flask&logoColor=4A90E2)
 
-### 🗄️ DATA REPOSITORIES
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=ff4444)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=ff4444)
-![Redis](https://img.shields.io/badge/-Redis-1a1a1a?style=for-the-badge&logo=redis&logoColor=ff4444)
+### 🗄️ INFORMATION STORAGE UNITS
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=4A90E2)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=4A90E2)
+![Redis](https://img.shields.io/badge/-Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=4A90E2)
 
-### 🛠️ OPERATIONAL TOOLS
-![Git](https://img.shields.io/badge/-Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ff4444)
-![Docker](https://img.shields.io/badge/-Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=ff4444)
-![AWS](https://img.shields.io/badge/-AWS-1a1a1a?style=for-the-badge&logo=amazonwebservices&logoColor=ff4444)
-![VS%20Code](https://img.shields.io/badge/-VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=ff4444)
+### 🛠️ FACILITY MANAGEMENT TOOLS
+![Git](https://img.shields.io/badge/-Git-1C1C1C?style=for-the-badge&logo=git&logoColor=4A90E2)
+![Docker](https://img.shields.io/badge/-Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=4A90E2)
+![AWS](https://img.shields.io/badge/-AWS-1C1C1C?style=for-the-badge&logo=amazonwebservices&logoColor=4A90E2)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-1C1C1C?style=for-the-badge&logo=visualstudiocode&logoColor=4A90E2)
 
 </div>
 
@@ -81,43 +88,43 @@ SPECIALIZATION : Full-Stack Development
   
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                      DANTE'S STATISTICAL ANALYSIS               ║
-║                         [AUTHORIZED ACCESS ONLY]                ║
+║                   BINAH'S STATISTICAL ANALYSIS                  ║
+║                      [SEPHIROT ACCESS ONLY]                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9&icon_color=ff4444" alt="Performance Data" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=dark&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Operational Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=4A90E2&text_color=a9b1d6&icon_color=9B59B6" alt="Agent Performance Data" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=tokyonight&hide_border=true&background=1a1b27&ring=4A90E2&fire=9B59B6&currStreakLabel=4A90E2&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6" alt="Facility Uptime Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9" alt="Protocol Analysis" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=ff4444&line=ff4444&point=c9d1d9" alt="Activity Timeline" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=4A90E2&text_color=a9b1d6" alt="Extraction Protocol Analysis" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=4A90E2&line=9B59B6&point=a9b1d6" alt="Activity Timeline" width="48%" />
 
 </div>
 
-## 🏆 CORPORATE ACHIEVEMENTS
+## 🏆 ABNORMALITY MANAGEMENT ACHIEVEMENTS
 
 <div align="center">
   
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║              LIMBUS COMPANY COMMENDATION RECORDS              ║
-║                     [EMPLOYEE RECOGNITION]                    ║
+║              FACILITY COMMENDATION RECORDS                    ║
+║                  [ABNORMALITY SUPPRESSION]                    ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=KiwiKit2&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Corporate Recognition" />
+<img src="https://github-profile-trophy.vercel.app/?username=KiwiKit2&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Facility Management Records" />
 
 </div>
 
-## 📈 SURVEILLANCE METRICS
+## 📈 FACILITY MONITORING SYSTEM
 
 <div align="center">
   
 ```
-⚠️  SECURITY NOTICE: ALL PROFILE ACTIVITY IS MONITORED  ⚠️
+⚠️  NOTICE: ALL AGENT ACTIVITY IS UNDER SEPHIROT SURVEILLANCE  ⚠️
 ```
 
-<img src="https://komarev.com/ghpvc/?username=KiwiKit2&label=SECURITY%20SCANS&color=ff4444&style=for-the-badge&labelColor=1a1a1a" alt="Security Monitoring" />
+<img src="https://komarev.com/ghpvc/?username=KiwiKit2&label=FACILITY%20SCANS&color=4A90E2&style=for-the-badge&labelColor=1C1C1C" alt="Facility Monitoring" />
 
 </div>
 
@@ -138,13 +145,13 @@ SPECIALIZATION : Full-Stack Development
 <div align="center">
   
 ```
-⚠️ AUTHORIZED PERSONNEL ONLY - LEVEL 5 CLEARANCE REQUIRED ⚠️
+⚠️ AUTHORIZED PERSONNEL ONLY - SEPHIROT CLEARANCE REQUIRED ⚠️
 ```
 
-[![CORPORATE NETWORK](https://img.shields.io/badge/-CORPORATE%20NETWORK-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff4444)](https://linkedin.com/in/yourprofile)
-[![INTELLIGENCE FEED](https://img.shields.io/badge/-INTELLIGENCE%20FEED-1a1a1a?style=for-the-badge&logo=twitter&logoColor=ff4444)](https://twitter.com/yourhandle)
-[![SECURE PORTAL](https://img.shields.io/badge/-SECURE%20PORTAL-1a1a1a?style=for-the-badge&logo=firefox&logoColor=ff4444)](https://yourportfolio.com)
-[![ENCRYPTED COMM](https://img.shields.io/badge/-ENCRYPTED%20COMM-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:your.email@example.com)
+[![FACILITY NETWORK](https://img.shields.io/badge/-FACILITY%20NETWORK-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=4A90E2)](https://linkedin.com/in/yourprofile)
+[![INTELLIGENCE FEED](https://img.shields.io/badge/-INTELLIGENCE%20FEED-1C1C1C?style=for-the-badge&logo=twitter&logoColor=4A90E2)](https://twitter.com/yourhandle)
+[![SECURE PORTAL](https://img.shields.io/badge/-SECURE%20PORTAL-1C1C1C?style=for-the-badge&logo=firefox&logoColor=4A90E2)](https://yourportfolio.com)
+[![ENCRYPTED COMM](https://img.shields.io/badge/-ENCRYPTED%20COMM-1C1C1C?style=for-the-badge&logo=gmail&logoColor=4A90E2)](mailto:your.email@example.com)
 
 </div>
 
@@ -154,13 +161,13 @@ SPECIALIZATION : Full-Stack Development
   
 ```
 ═══════════════════════════════════════════════════════════════
-          LIMBUS COMPANY CONFIDENTIAL - DO NOT DISTRIBUTE
-                     Property of KiwiKit2
-         "In the pursuit of the Golden Bough, we code."
+        LOBOTOMY CORPORATION CONFIDENTIAL - DO NOT DISTRIBUTE
+                   Property of Sephirot Binah
+              "Understanding comes through acceptance."
 ═══════════════════════════════════════════════════════════════
 ```
 
-<img src="https://img.shields.io/badge/⚠-CLASSIFIED%20MATERIAL-critical?style=for-the-badge&labelColor=1a1a1a&color=ff4444" alt="Classification Warning" />
+<img src="https://img.shields.io/badge/⚠-CLASSIFIED%20MATERIAL-critical?style=for-the-badge&labelColor=1C1C1C&color=9B59B6" alt="Classification Warning" />
 
 </div><!--
 **KiwiKit2/KiwiKit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
