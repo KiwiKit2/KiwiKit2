@@ -1,7 +1,7 @@
-# Welcome to Limbus Company - Wing [Your Name] 🏢
+# Welcome to Limbus Company - Wing KiwiKit2 🏢
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=FF4444&center=true&vCenter=true&width=800&lines=LIMBUS+COMPANY+EMPLOYEE+DATABASE;WING+%5BYour+Name%5D+-+ACTIVE;CURRENT+PROJECT%3A+%5BProject+Name%5D;DANTE'S+GUIDANCE+PROTOCOL+ONLINE;%E2%9A%A0+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0" alt="Limbus Company Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=4000&pause=1000&color=FF4444&center=true&vCenter=true&width=800&lines=LIMBUS+COMPANY+EMPLOYEE+DATABASE;WING+KIWI+-+ACTIVE;CURRENT+PROJECT%3A+CLASSIFIED;DANTE'S+GUIDANCE+PROTOCOL+ONLINE;%E2%9A%A0+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0" alt="Limbus Company Terminal" />
 </div>
 
 <div align="center">
@@ -16,21 +16,21 @@
 ═══════════════════════════════════════════════════════════════
                     LIMBUS COMPANY DATABASE
 ═══════════════════════════════════════════════════════════════
-EMPLOYEE ID    : [Your Employee ID]
-WING NAME      : [Your Name]
+EMPLOYEE ID    : KW-2025-001
+WING NAME      : KiwiKit2
 DEPARTMENT     : Technology Solutions Division
 CLEARANCE      : Level 5
 STATUS         : Active
-SPECIALIZATION : [Your Tech Stack]
+SPECIALIZATION : Full-Stack Development
 ═══════════════════════════════════════════════════════════════
 ```
 
-- 🏢 **CURRENT ASSIGNMENT**: `[Your Current Project]`
-- 🔬 **RESEARCH FOCUS**: `[Technologies you're learning]`
-- 🤝 **COLLABORATION PROTOCOL**: `[Type of projects]`
-- 📡 **EXPERTISE DATABASE**: `[Your expertise areas]`
-- 📞 **CONTACT FREQUENCY**: `[Your email]`
-- ⚡ **CLASSIFIED INFO**: `[Something interesting about you]`
+- 🏢 **CURRENT ASSIGNMENT**: `Classified GitHub Operations`
+- 🔬 **RESEARCH FOCUS**: `Advanced Web Technologies`
+- 🤝 **COLLABORATION PROTOCOL**: `Open Source Contributions`
+- 📡 **EXPERTISE DATABASE**: `JavaScript, Python, Web Development`
+- 📞 **CONTACT FREQUENCY**: `[Classified]`
+- ⚡ **CLASSIFIED INFO**: `Coffee-powered code warrior`
 
 ## ⚙️ COMPANY APPROVED TECHNOLOGIES
 
@@ -86,11 +86,11 @@ SPECIALIZATION : [Your Tech Stack]
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=testuser&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9&icon_color=ff4444" alt="Performance Data" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=testuser&theme=dark&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Operational Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9&icon_color=ff4444" alt="Performance Data" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=dark&hide_border=true&background=0d1117&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Operational Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testuser&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9" alt="Protocol Analysis" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=testuser&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=ff4444&line=ff4444&point=c9d1d9" alt="Activity Timeline" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff4444&text_color=c9d1d9" alt="Protocol Analysis" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=ff4444&line=ff4444&point=c9d1d9" alt="Activity Timeline" width="48%" />
 
 </div>
 
@@ -105,7 +105,7 @@ SPECIALIZATION : [Your Tech Stack]
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=testuser&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Corporate Recognition" />
+<img src="https://github-profile-trophy.vercel.app/?username=KiwiKit2&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Corporate Recognition" />
 
 </div>
 
@@ -117,7 +117,7 @@ SPECIALIZATION : [Your Tech Stack]
 ⚠️  SECURITY NOTICE: ALL PROFILE ACTIVITY IS MONITORED  ⚠️
 ```
 
-<img src="https://komarev.com/ghpvc/?username=testuser&label=SECURITY%20SCANS&color=ff4444&style=for-the-badge&labelColor=1a1a1a" alt="Security Monitoring" />
+<img src="https://komarev.com/ghpvc/?username=KiwiKit2&label=SECURITY%20SCANS&color=ff4444&style=for-the-badge&labelColor=1a1a1a" alt="Security Monitoring" />
 
 </div>
 
@@ -155,11 +155,24 @@ SPECIALIZATION : [Your Tech Stack]
 ```
 ═══════════════════════════════════════════════════════════════
           LIMBUS COMPANY CONFIDENTIAL - DO NOT DISTRIBUTE
-                     Property of [testuser]
+                     Property of KiwiKit2
          "In the pursuit of the Golden Bough, we code."
 ═══════════════════════════════════════════════════════════════
 ```
 
 <img src="https://img.shields.io/badge/⚠-CLASSIFIED%20MATERIAL-critical?style=for-the-badge&labelColor=1a1a1a&color=ff4444" alt="Classification Warning" />
 
-</div>
+</div><!--
+**KiwiKit2/KiwiKit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
