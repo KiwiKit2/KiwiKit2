@@ -1,13 +1,13 @@
 # LOBOTOMY CORPORATION - SEPHIROT BINAH TERMINAL 🌑
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=900&lines=LOBOTOMY+CORPORATION+CENTRAL+COMMAND;SEPHIROT+BINAH+%E2%80%A2+FLOOR+OF+UNDERSTANDING;AGENT+KIWIKIT2+%E2%80%A2+DEPARTMENT+HEAD;ABNORMALITY+MANAGEMENT+PROTOCOL+ACTIVE;%E2%9A%A0%EF%B8%8F+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0%EF%B8%8F" alt="Lobotomy Corp Terminal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=LOBOTOMY+CORPORATION+CENTRAL+COMMAND;SEPHIROT+BINAH+%E2%80%A2+FLOOR+OF+UNDERSTANDING;AGENT+KIWIKIT2+%E2%80%A2+EXTRACTION+TEAM;ABNORMALITY+MANAGEMENT+PROTOCOL+ACTIVE;%E2%9A%A0%EF%B8%8F+AUTHORIZED+PERSONNEL+ONLY+%E2%9A%A0%EF%B8%8F" alt="Lobotomy Corp Terminal" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/FACILITY-OPERATIONAL-success?style=for-the-badge&labelColor=1C1C1C&color=4A90E2" alt="Status" />
-  <img src="https://img.shields.io/badge/CLEARANCE-SEPHIROT-critical?style=for-the-badge&labelColor=1C1C1C&color=9B59B6" alt="Clearance" />
-  <img src="https://img.shields.io/badge/FLOOR-UNDERSTANDING-informational?style=for-the-badge&labelColor=1C1C1C&color=2C3E50" alt="Floor" />
+  <img src="https://img.shields.io/badge/FACILITY-OPERATIONAL-success?style=for-the-badge&labelColor=000000&color=FFD700" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-SEPHIROT-critical?style=for-the-badge&labelColor=000000&color=B8860B" alt="Clearance" />
+  <img src="https://img.shields.io/badge/DEPARTMENT-EXTRACTION%20TEAM-informational?style=for-the-badge&labelColor=000000&color=DAA520" alt="Department" />
 </div>
 
 ## 🌑 SEPHIROT PERSONNEL FILE
@@ -50,35 +50,35 @@ SPECIALIZATION : Code Extraction & Digital Abnormality Management
 ```
 
 ### 🖥️ CORE EXTRACTION PROTOCOLS
-![Python](https://img.shields.io/badge/-Python-1C1C1C?style=for-the-badge&logo=python&logoColor=4A90E2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1C?style=for-the-badge&logo=javascript&logoColor=4A90E2)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1C1C1C?style=for-the-badge&logo=typescript&logoColor=4A90E2)
-![Java](https://img.shields.io/badge/-Java-1C1C1C?style=for-the-badge&logo=openjdk&logoColor=4A90E2)
-![C++](https://img.shields.io/badge/-C++-1C1C1C?style=for-the-badge&logo=cplusplus&logoColor=4A90E2)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
 
 ### 🎨 INTERFACE CONTAINMENT SYSTEMS
-![React](https://img.shields.io/badge/-React-1C1C1C?style=for-the-badge&logo=react&logoColor=4A90E2)
-![Vue.js](https://img.shields.io/badge/-Vue.js-1C1C1C?style=for-the-badge&logo=vuedotjs&logoColor=4A90E2)
-![HTML5](https://img.shields.io/badge/-HTML5-1C1C1C?style=for-the-badge&logo=html5&logoColor=4A90E2)
-![CSS3](https://img.shields.io/badge/-CSS3-1C1C1C?style=for-the-badge&logo=css3&logoColor=4A90E2)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1C1C1C?style=for-the-badge&logo=tailwindcss&logoColor=4A90E2)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=FFD700)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFD700)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFD700)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700)
 
 ### 🏗️ BACKEND FACILITY INFRASTRUCTURE  
-![Node.js](https://img.shields.io/badge/-Node.js-1C1C1C?style=for-the-badge&logo=nodedotjs&logoColor=4A90E2)
-![Express.js](https://img.shields.io/badge/-Express-1C1C1C?style=for-the-badge&logo=express&logoColor=4A90E2)
-![Django](https://img.shields.io/badge/-Django-1C1C1C?style=for-the-badge&logo=django&logoColor=4A90E2)
-![Flask](https://img.shields.io/badge/-Flask-1C1C1C?style=for-the-badge&logo=flask&logoColor=4A90E2)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFD700)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=FFD700)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=FFD700)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=FFD700)
 
 ### 🗄️ INFORMATION STORAGE UNITS
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1C1C1C?style=for-the-badge&logo=postgresql&logoColor=4A90E2)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1C1C1C?style=for-the-badge&logo=mongodb&logoColor=4A90E2)
-![Redis](https://img.shields.io/badge/-Redis-1C1C1C?style=for-the-badge&logo=redis&logoColor=4A90E2)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FFD700)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=for-the-badge&logo=redis&logoColor=FFD700)
 
 ### 🛠️ FACILITY MANAGEMENT TOOLS
-![Git](https://img.shields.io/badge/-Git-1C1C1C?style=for-the-badge&logo=git&logoColor=4A90E2)
-![Docker](https://img.shields.io/badge/-Docker-1C1C1C?style=for-the-badge&logo=docker&logoColor=4A90E2)
-![AWS](https://img.shields.io/badge/-AWS-1C1C1C?style=for-the-badge&logo=amazonwebservices&logoColor=4A90E2)
-![VS%20Code](https://img.shields.io/badge/-VS%20Code-1C1C1C?style=for-the-badge&logo=visualstudiocode&logoColor=4A90E2)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FFD700)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FFD700)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
 
 </div>
 
@@ -93,11 +93,11 @@ SPECIALIZATION : Code Extraction & Digital Abnormality Management
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=4A90E2&text_color=a9b1d6&icon_color=9B59B6" alt="Agent Performance Data" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=tokyonight&hide_border=true&background=1a1b27&ring=4A90E2&fire=9B59B6&currStreakLabel=4A90E2&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6" alt="Facility Uptime Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700" alt="Agent Performance Data" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=tokyonight&hide_border=true&background=1a1b27&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Facility Uptime Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=4A90E2&text_color=a9b1d6" alt="Extraction Protocol Analysis" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=4A90E2&line=9B59B6&point=a9b1d6" alt="Activity Timeline" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=FFD700&text_color=c9d1d9" alt="Extraction Protocol Analysis" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=FFD700&line=FFD700&point=c9d1d9" alt="Activity Timeline" width="48%" />
 
 </div>
 
@@ -124,7 +124,7 @@ SPECIALIZATION : Code Extraction & Digital Abnormality Management
 ⚠️  NOTICE: ALL AGENT ACTIVITY IS UNDER SEPHIROT SURVEILLANCE  ⚠️
 ```
 
-<img src="https://komarev.com/ghpvc/?username=KiwiKit2&label=FACILITY%20SCANS&color=4A90E2&style=for-the-badge&labelColor=1C1C1C" alt="Facility Monitoring" />
+<img src="https://komarev.com/ghpvc/?username=KiwiKit2&label=FACILITY%20SCANS&color=FFD700&style=for-the-badge&labelColor=000000" alt="Facility Monitoring" />
 
 </div>
 
@@ -148,10 +148,10 @@ SPECIALIZATION : Code Extraction & Digital Abnormality Management
 ⚠️ AUTHORIZED PERSONNEL ONLY - SEPHIROT CLEARANCE REQUIRED ⚠️
 ```
 
-[![FACILITY NETWORK](https://img.shields.io/badge/-FACILITY%20NETWORK-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=4A90E2)](https://linkedin.com/in/yourprofile)
-[![INTELLIGENCE FEED](https://img.shields.io/badge/-INTELLIGENCE%20FEED-1C1C1C?style=for-the-badge&logo=twitter&logoColor=4A90E2)](https://twitter.com/yourhandle)
-[![SECURE PORTAL](https://img.shields.io/badge/-SECURE%20PORTAL-1C1C1C?style=for-the-badge&logo=firefox&logoColor=4A90E2)](https://yourportfolio.com)
-[![ENCRYPTED COMM](https://img.shields.io/badge/-ENCRYPTED%20COMM-1C1C1C?style=for-the-badge&logo=gmail&logoColor=4A90E2)](mailto:your.email@example.com)
+[![FACILITY NETWORK](https://img.shields.io/badge/-FACILITY%20NETWORK-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://linkedin.com/in/yourprofile)
+[![INTELLIGENCE FEED](https://img.shields.io/badge/-INTELLIGENCE%20FEED-1C1C1C?style=for-the-badge&logo=twitter&logoColor=FFD700)](https://twitter.com/yourhandle)
+[![SECURE PORTAL](https://img.shields.io/badge/-SECURE%20PORTAL-1C1C1C?style=for-the-badge&logo=firefox&logoColor=FFD700)](https://yourportfolio.com)
+[![ENCRYPTED COMM](https://img.shields.io/badge/-ENCRYPTED%20COMM-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:your.email@example.com)
 
 </div>
 
