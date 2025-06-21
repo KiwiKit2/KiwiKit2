@@ -9,17 +9,15 @@
 
 <div align="center">
 
-<img src="./images/binah_banner.jpg" width="100%" height="200" style="object-fit: cover;" alt="The Library - Binah's Domain" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=header&text=The%20Library%20-%20Binah%20Terminal&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=30" />
 
 </div>
 
 <div align="center">
 
-### 🎭 *"Understanding comes through acceptance."* 🎭
+### *"Understanding comes through acceptance."*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=700&lines=SAP+Adapter+Developer+%7C+Enterprise+Systems;Java+Engineer+%7C+OAuth+Security+Specialist;Building+Bridges+Between+Systems;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
-
-<img src="./images/binah1.jpg" width="250" height="300" style="object-fit: cover; border-radius: 10px; border: 3px solid #B8860B;" alt="Binah - The Arbiter of Understanding" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=000000&color=B8860B)
@@ -49,7 +47,7 @@
 
 ## 🏛️ About the Librarian
 
-<img align="right" alt="Binah - The Pillar of Understanding" width="180" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 15px;" src="./images/binah_well.jpg" />
+<img src="./images/binah1.jpg" width="200" height="250" style="object-fit: cover; border-radius: 8px; border: 2px solid #B8860B; float: right; margin-left: 15px;" alt="Binah - The Arbiter of Understanding" />
 
 **SAP Adapter Developer** specializing in **enterprise middleware** and **system integrations**. My domain revolves around the intricate dance of **REST/SOAP APIs**, **OAuth security**, and the delicate art of making disparate systems communicate seamlessly.
 
@@ -80,15 +78,10 @@
 │   ├── API Security Strategies
 │   └── Social Engineering Awareness
 │
-├── ☕ Core Technologies
-│   ├── Java Ecosystem (Spring, Boot)
-│   ├── RESTful & SOAP Services
-│   └── Microservices Architecture
-│
-└── 🎮 Personal Interests
-    ├── Strategy & RPG Gaming
-    ├── Music Theory & Discovery
-    └── Philosophy & Learning
+└── ☕ Core Technologies
+    ├── Java Ecosystem (Spring, Boot)
+    ├── RESTful & SOAP Services
+    └── Microservices Architecture
 ```
 
 </td>
@@ -153,87 +146,11 @@
 
 ---
 
-## 🎮 Gaming Sanctum
-
 <div align="center">
 
-<table>
-<tr>
-<th>🏰 Strategy Realm</th>
-<th>⚔️ Souls-like Domain</th>
-<th>🎭 Project Moon Universe</th>
-</tr>
-<tr>
-<td>
+<img src="./images/binah_banner.jpg" width="100%" height="200" style="object-fit: cover;" alt="The Library - Binah's Domain" />
 
-**Heroes of Might & Magic III**
-- Castle faction enthusiast
-- Tournament scenario specialist
-- Map editor hobbyist
-
-</td>
-<td>
-
-**Dark Souls Series**
-- Praise the Sun ☀️
-- Elden Ring explorer
-- Fashion souls advocate
-
-</td>
-<td>
-
-**Library of Ruina**
-- Floor of Philosophy main
-- Abnormality lore scholar  
-- Urban Legend collector
-<!-- Optional: Add small Binah icon here -->
-<!-- <br><img src="./images/binah-icon.png" width="24" alt="Binah"/> -->
-
-</td>
-</tr>
-</table>
-
-### 🎵 **Soundtrack of Development**
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2hn7eka11kp09qhsnok3i6max?si=e0c5a78808254bb9)
-
-*From orchestral epics to electronic ambience - music that fuels the coding flow*
-
-</div>
-
----
-
-## 🌟 Current Focus Areas
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🏛️ Enterprise Integration] --> B[SAP Adapter Development]
-    A --> C[Middleware Architecture]
-    A --> D[Message Transformation]
-    
-    E[🔐 Security Engineering] --> F[OAuth 2.0 Flows]
-    E --> G[API Authentication]
-    E --> H[Social Engineering Awareness]
-    
-    I[☕ Java Ecosystem] --> J[Spring Framework]
-    I --> K[Microservices]
-    I --> L[Performance Optimization]
-    
-    M[🎯 Learning Goals] --> N[Cloud Architecture]
-    M --> O[Advanced Security]
-    M --> P[System Design]
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=footer&text=Knowledge%20is%20Power&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" />
-
-### 🎭 *"In the depths of understanding, we find our true strength"* 🎭
+### *"In the depths of understanding, we find our true strength"*
 
 **📚 Connect with the Librarian:**
 
