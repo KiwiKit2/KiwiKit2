@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=header&text=The%20Library%20-%20Binah%20Terminal&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=30" />
+<img src="./images/binah_banner.jpg" width="100%" alt="The Library - Binah's Domain" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=700&lines=SAP+Adapter+Developer+%7C+Enterprise+Systems;Java+Engineer+%7C+OAuth+Security+Specialist;Building+Bridges+Between+Systems;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="./images/binah1.jpg" width="300" alt="Binah - The Arbiter of Understanding" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=000000&color=B8860B)
@@ -49,7 +49,7 @@
 
 ## 🏛️ About the Librarian
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Binah - The Pillar of Understanding" width="200" src="./images/binah_well.jpg" />
 
 **SAP Adapter Developer** specializing in **enterprise middleware** and **system integrations**. My domain revolves around the intricate dance of **REST/SOAP APIs**, **OAuth security**, and the delicate art of making disparate systems communicate seamlessly.
 
@@ -184,8 +184,10 @@
 
 **Library of Ruina**
 - Floor of Philosophy main
-- Abnormality lore scholar
+- Abnormality lore scholar  
 - Urban Legend collector
+<!-- Optional: Add small Binah icon here -->
+<!-- <br><img src="./images/binah-icon.png" width="24" alt="Binah"/> -->
 
 </td>
 </tr>
