@@ -140,7 +140,7 @@ I architect and develop **SAP integration solutions**, specializing in REST/SOAP
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=DAA520&icon_color=FFD700&custom_title=Knowledge%20Repository" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&stroke=DAA520" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=KiwiKit2&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&stroke=DAA520" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=DAA520&custom_title=Language%20Distribution" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiwiKit2&bg_color=0D1117&color=FFD700&line=FFD700&point=DAA520&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="48%" />
