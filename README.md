@@ -19,6 +19,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=700&lines=SAP+Adapter+Developer+%7C+Enterprise+Systems;Java+Engineer+%7C+OAuth+Security+Specialist;Building+Bridges+Between+Systems;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
+<img src="./images/binah1.jpg" width="250" height="300" style="object-fit: cover; border-radius: 10px; border: 3px solid #B8860B; margin: 20px 0;" alt="Binah - The Arbiter of Understanding" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=000000&color=B8860B)
 ![Focus](https://img.shields.io/badge/FOCUS-ENTERPRISE_INTEGRATION-blue?style=for-the-badge&labelColor=000000&color=B8860B)
@@ -47,7 +49,7 @@
 
 ## 🏛️ About the Librarian
 
-<img src="./images/binah1.jpg" width="200" height="250" style="object-fit: cover; border-radius: 8px; border: 2px solid #B8860B; float: right; margin-left: 15px;" alt="Binah - The Arbiter of Understanding" />
+<img align="right" alt="Binah - The Well of Understanding" width="180" height="200" style="object-fit: cover; border-radius: 8px; margin-left: 15px; border: 2px solid #B8860B;" src="./images/binah_well.jpg" />
 
 **SAP Adapter Developer** specializing in **enterprise middleware** and **system integrations**. My domain revolves around the intricate dance of **REST/SOAP APIs**, **OAuth security**, and the delicate art of making disparate systems communicate seamlessly.
 
