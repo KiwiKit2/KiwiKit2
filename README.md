@@ -1,83 +1,227 @@
+<!--
+██████╗ ██╗███╗   ██╗ █████╗ ██╗  ██╗    ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+██╔══██╗██║████╗  ██║██╔══██╗██║  ██║    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+██████╔╝██║██╔██╗ ██║███████║███████║       ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+██╔══██╗██║██║╚██╗██║██╔══██║██╔══██║       ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+██████╔╝██║██║ ╚████║██║  ██║██║  ██║       ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+-->
+
 <div align="center">
 
-# 📚 The Library - Sephirot Binah Terminal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=header&text=The%20Library%20-%20Binah%20Terminal&fontSize=30&fontColor=000000&animation=fadeIn&fontAlignY=30" />
 
-*"Understanding comes through acceptance."*
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=SAP+Adapter+Developer;Java+%26+Enterprise+Systems;OAuth+Security+Engineer;Always+Learning)](https://git.io/typing-svg)
+<div align="center">
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&color=B8860B)
-![Visitors](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=flat-square&label=visitors)
+### 🎭 *"Understanding comes through acceptance."* 🎭
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=700&lines=SAP+Adapter+Developer+%7C+Enterprise+Systems;Java+Engineer+%7C+OAuth+Security+Specialist;Building+Bridges+Between+Systems;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+![Profile Views](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=for-the-badge&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=000000&color=B8860B)
+![Focus](https://img.shields.io/badge/FOCUS-ENTERPRISE_INTEGRATION-blue?style=for-the-badge&labelColor=000000&color=B8860B)
+
+</div>
+
+<div align="center">
+
+```ascii
+┌─────────────────────────── LIBRARY ACCESS TERMINAL ───────────────────────────┐
+│                                                                                │
+│  ► User: KiwiKit2                    ► Clearance: Developer                    │
+│  ► Role: SAP Integration Specialist  ► Department: Enterprise Systems          │
+│  ► Status: ████████████████ ACTIVE   ► Last Login: Recently                   │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📚 About Me
+<table>
+<tr>
+<td width="50%">
 
-I'm a **SAP Adapter Developer** working with REST/SOAP integrations and enterprise middleware. My primary focus is on Java development, OAuth security implementations, and API integrations.
+## 🏛️ About the Librarian
 
-**What I actually do:**
-- Build and maintain SAP adapters (REST, SOAP, Axis)
-- OAuth and API security implementations  
-- Social engineering concepts and security awareness
-- Enterprise integration solutions
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**When I'm not coding:**
-- Gaming: Heroes of Might and Magic III, Dark Souls series, Elden Ring, Valve games, Project Moon universe
-- Music: [Eclectic taste across many genres](https://open.spotify.com/user/2hn7eka11kp09qhsnok3i6max?si=e0c5a78808254bb9)
-- Always up for conversations about tech, games, music, or random topics
+**SAP Adapter Developer** specializing in **enterprise middleware** and **system integrations**. My domain revolves around the intricate dance of **REST/SOAP APIs**, **OAuth security**, and the delicate art of making disparate systems communicate seamlessly.
 
----
+**📖 Current Chapter:**
+- 🔧 Architecting SAP adapters (REST, SOAP, Axis frameworks)
+- 🛡️ Implementing OAuth 2.0 flows and API security
+- 🌐 Building robust enterprise integration solutions
+- 📚 Mastering the nuances of middleware architecture
 
-## 🛠️ Tech Stack
+**🎭 When not in the Library:**
+- 🎮 **Gaming**: Heroes of Might & Magic III, Dark Souls series, Project Moon universe
+- 🎵 **Music**: [Eclectic soundscape explorer](https://open.spotify.com/user/2hn7eka11kp09qhsnok3i6max?si=e0c5a78808254bb9)
+- 💬 **Social**: Always ready for deep conversations about tech, games, philosophy, or random rabbit holes
 
-**Primary Technologies:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST](https://img.shields.io/badge/REST-25A162?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-1E6091?style=flat-square)
+</td>
+<td width="50%">
 
-**Security & Auth:**
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=Spring-Security&logoColor=white)
+## 🎯 Knowledge Domains
 
-**Other Tools:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```
+┌── 🏢 Enterprise Systems
+│   ├── SAP Integration (PI/PO)
+│   ├── Middleware Architecture
+│   └── Message Transformation
+│
+├── 🔐 Security & Authentication  
+│   ├── OAuth 2.0 Implementations
+│   ├── API Security Strategies
+│   └── Social Engineering Awareness
+│
+├── ☕ Core Technologies
+│   ├── Java Ecosystem (Spring, Boot)
+│   ├── RESTful & SOAP Services
+│   └── Microservices Architecture
+│
+└── 🎮 Personal Interests
+    ├── Strategy & RPG Gaming
+    ├── Music Theory & Discovery
+    └── Philosophy & Learning
+```
 
----
-
-## 🎯 Areas of Focus
-
-**🔧 Enterprise Integration**
-- SAP adapter frameworks and PI/PO systems
-- Middleware architecture and API gateways
-- Message transformation and error handling
-
-**🔐 Security & Authentication**
-- OAuth 2.0 flows and implementations
-- API authentication strategies
-- Social engineering awareness and concepts
-
-**🎮 Gaming Interests**
-- Heroes of Might & Magic III
-- Dark Souls, Elden Ring
-- Limbus Company, Library of Ruina, Lobotomy Corporation
-- Valve games and quality indies
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=default&hide_border=true&title_color=B8860B&icon_color=B8860B" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&layout=compact&theme=default&hide_border=true&title_color=B8860B" width="49%" />
+### **🏛️ Primary Weapons**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### **🛡️ Security & Authentication**
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+
+### **🌐 Integration & APIs**
+![REST API](https://img.shields.io/badge/REST-25A162?style=for-the-badge&logo=rest&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-1E6091?style=for-the-badge&logo=soap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Apache Axis](https://img.shields.io/badge/Apache_Axis-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### **💾 Data & Databases**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+### **🔧 Development Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 Library Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KiwiKit2&show_icons=true&theme=radical&hide_border=true&title_color=B8860B&icon_color=B8860B&text_color=ffffff&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiKit2&layout=compact&theme=radical&hide_border=true&title_color=B8860B&text_color=ffffff&bg_color=0d1117" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwiKit2&theme=radical&hide_border=true&ring=B8860B&fire=B8860B&currStreakLabel=B8860B" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KiwiKit2&theme=radical&hide_border=true&title_color=B8860B&text_color=ffffff&bg_color=0d1117" width="48%" />
+
+</div>
+
+---
+
+## 🎮 Gaming Sanctum
+
+<div align="center">
+
+<table>
+<tr>
+<th>🏰 Strategy Realm</th>
+<th>⚔️ Souls-like Domain</th>
+<th>🎭 Project Moon Universe</th>
+</tr>
+<tr>
+<td>
+
+**Heroes of Might & Magic III**
+- Castle faction enthusiast
+- Tournament scenario specialist
+- Map editor hobbyist
+
+</td>
+<td>
+
+**Dark Souls Series**
+- Praise the Sun ☀️
+- Elden Ring explorer
+- Fashion souls advocate
+
+</td>
+<td>
+
+**Library of Ruina**
+- Floor of Philosophy main
+- Abnormality lore scholar
+- Urban Legend collector
+
+</td>
+</tr>
+</table>
+
+### 🎵 **Soundtrack of Development**
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2hn7eka11kp09qhsnok3i6max?si=e0c5a78808254bb9)
+
+*From orchestral epics to electronic ambience - music that fuels the coding flow*
+
+</div>
+
+---
+
+## 🌟 Current Focus Areas
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🏛️ Enterprise Integration] --> B[SAP Adapter Development]
+    A --> C[Middleware Architecture]
+    A --> D[Message Transformation]
+    
+    E[🔐 Security Engineering] --> F[OAuth 2.0 Flows]
+    E --> G[API Authentication]
+    E --> H[Social Engineering Awareness]
+    
+    I[☕ Java Ecosystem] --> J[Spring Framework]
+    I --> K[Microservices]
+    I --> L[Performance Optimization]
+    
+    M[🎯 Learning Goals] --> N[Cloud Architecture]
+    M --> O[Advanced Security]
+    M --> P[System Design]
+```
 
 </div>
 
@@ -85,9 +229,18 @@ I'm a **SAP Adapter Developer** working with REST/SOAP integrations and enterpri
 
 <div align="center">
 
-*"Knowledge shared is knowledge multiplied."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B8860B&height=120&section=footer&text=Knowledge%20is%20Power&fontSize=24&fontColor=000000&animation=fadeIn&fontAlignY=70" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🎭 *"In the depths of understanding, we find our true strength"* 🎭
+
+**📚 Connect with the Librarian:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+
+---
+
+<sub>🏛️ **Library Terminal Active** | Last Updated: 2025 | Built with ❤️ and ☕</sub>
 
 </div>
