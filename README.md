@@ -19,8 +19,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B8860B&center=true&vCenter=true&width=700&lines=SAP+Adapter+Developer+%7C+Enterprise+Systems;Java+Engineer+%7C+OAuth+Security+Specialist;Building+Bridges+Between+Systems;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
-<img src="./images/binah1.jpg" width="250" height="300" style="object-fit: cover; border-radius: 10px; border: 3px solid #B8860B; margin: 20px 0;" alt="Binah - The Arbiter of Understanding" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KiwiKit2&color=B8860B&style=for-the-badge&label=PROFILE+VIEWS)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&labelColor=000000&color=B8860B)
 ![Focus](https://img.shields.io/badge/FOCUS-ENTERPRISE_INTEGRATION-blue?style=for-the-badge&labelColor=000000&color=B8860B)
@@ -90,6 +88,10 @@
 </tr>
 </table>
 
+<div align="center">
+<img src="./images/binah1.jpg" width="250" height="300" style="object-fit: cover; border-radius: 10px; border: 3px solid #B8860B; margin: 20px 0;" alt="Binah - The Arbiter of Understanding" />
+</div>
+
 ---
 
 ## 🛠️ Technical Arsenal
@@ -150,7 +152,7 @@
 
 <div align="center">
 
-<img src="./images/binah_banner.jpg" width="100%" height="200" style="object-fit: cover;" alt="The Library - Binah's Domain" />
+<img src="./images/binah_banner.jpg" width="100%" height="150" style="object-fit: cover;" alt="The Library - Binah's Domain" />
 
 ### *"In the depths of understanding, we find our true strength"*
 
