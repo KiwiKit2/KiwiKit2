@@ -84,13 +84,13 @@
     └── Microservices Architecture
 ```
 
+<div align="center">
+<img src="./images/binah1.jpg" width="200" height="250" style="object-fit: cover; border-radius: 8px; border: 2px solid #B8860B; margin-top: 15px;" alt="Binah - The Arbiter of Understanding" />
+</div>
+
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="./images/binah1.jpg" width="250" height="300" style="object-fit: cover; border-radius: 10px; border: 3px solid #B8860B; margin: 20px 0;" alt="Binah - The Arbiter of Understanding" />
-</div>
 
 ---
 
@@ -152,7 +152,7 @@
 
 <div align="center">
 
-<img src="./images/binah_banner.jpg" width="100%" height="150" style="object-fit: cover;" alt="The Library - Binah's Domain" />
+<img src="./images/binah_banner.jpg" width="100%" alt="The Library - Binah's Domain" />
 
 ### *"In the depths of understanding, we find our true strength"*
 
