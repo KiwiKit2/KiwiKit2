@@ -149,47 +149,6 @@ I architect and develop **SAP integration solutions**, specializing in REST/SOAP
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiwiKit2&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Live Activity Stream
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    RECENT LIBRARY OPERATIONS                  ║
-║                   [AUTO-UPDATING EVERY 6 HOURS]              ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 Knowledge Exchange Networks
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Tech_Discussions-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Digital_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
-
-</div>
-
----
-
 <div align="center">
 
 ## 📖 Final Thoughts
