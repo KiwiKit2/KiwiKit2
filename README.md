@@ -157,6 +157,4 @@
 ### *"In the depths of understanding, we find our true strength"*
 ---
 
-<sub>🏛️ **Library Terminal Active** | Last Updated: 2025 | Built with ❤️ and ☕</sub>
-
 </div>
